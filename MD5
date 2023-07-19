@@ -1,6 +1,6 @@
-681ca1bb6a130417fce6ffcde87bbf06 *DESCRIPTION
+4def151ff2588a702392384bffb18ec4 *DESCRIPTION
 8b4b86c8b0c29d339dfb4ca0e1a53015 *NAMESPACE
-26aca70413cacaaeb5139a21c9ffbb76 *NEWS.md
+6208c138023dc361da4103bd01b1fe46 *NEWS.md
 e91c58703963b90e4728cde0faa83dfe *R/Color_Palettes.R
 c4a66352198576829e957ad91656986d *R/Data.R
 ff8a61c12a95d6b436e24b533c7c4cdc *R/Internal_Utilities.R
@@ -16,11 +16,11 @@ d2b1224c557369e3059dc0db3bd2138f *R/Seurat_Iterative_Plotting.R
 5bd8a054c9a1318f5468dd93a8dcda91 *R/Seurat_Plotting.R
 7fa6c14b5b9db26c37dcd268961bfee0 *R/Statistics.R
 381ed256280b7d48ee69390f86fd862e *R/Statistics_Plotting.R
-1a43b492fff37a102b31dcce1a725abf *R/Utilities.R
+fd6494583e2d2bbcb8d5286756a3a03a *R/Utilities.R
 7cd152c3e353675aa15af9221149085c *R/sysdata.rda
 e603719a0dadec63eb02a54c6a56067e *R/zzz.R
 c71ac3b5c11a3ece6908e0108b760420 *README.md
-b2d725e73b3f9308eec2748626318ea2 *build/partial.rdb
+0afaaf941123e9621673cd4ce299df9b *build/partial.rdb
 6aa796b47c4b2972460708a3b8ef730c *data/ensembl_mito_id.rda
 51c90f833a7b5cb53fc9b18b79269379 *data/ensembl_ribo_id.rda
 d82a9ed719b996db2c9cbebb45b44ca8 *man/Add_CellBender_Diff.Rd
@@ -73,7 +73,7 @@ ac0475be6aef9da4889f3e54d2448f98 *man/Iterate_VlnPlot_scCustom.Rd
 25492822787eab379b75fd8273ee114c *man/JCO_Four.Rd
 62d7afb51843cce7328c3e0339e3dee2 *man/Liger_to_Seurat.Rd
 fb73bf7625839539ba6ed248d3e132ca *man/Median_Stats.Rd
-c707f441ff88b6bf2f38ac810d5cac04 *man/Merge_Seurat_List.Rd
+dbea5090e88ea1c047ee4656c50d4bf7 *man/Merge_Seurat_List.Rd
 9c425b64a226ffb64b325254f6a06242 *man/Merge_Sparse_Data_All.Rd
 e06d54d75c25601bd3df8e71e7e75929 *man/Merge_Sparse_Multimodal_All.Rd
 6627e35dbf0512240df8769bd0be3b07 *man/Meta_Highlight_Plot.Rd
