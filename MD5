@@ -1,6 +1,6 @@
-291c44147c18f2926b5379b2343553a8 *DESCRIPTION
+7e1eb1bb2b1bedaabed18ac2d25d8c7d *DESCRIPTION
 111886ab128f53442984fadcd3c5d6b9 *NAMESPACE
-63c5bad7f0fc00084ff77fc1270831f0 *NEWS.md
+d5d841539e32c12e0a094fa9ddfbb4ca *NEWS.md
 5ac8cd37e0e6461ee5f796695f3a1479 *R/Color_Palettes.R
 ad3e82b561436d895e47cfcfca1169e4 *R/Data.R
 10e79a382c9d0f2644f9c26c6827790c *R/Deprecated.R
@@ -8,7 +8,7 @@ ad3e82b561436d895e47cfcfca1169e4 *R/Data.R
 a2511c57ca8dfa480c15ea80779e122d *R/Internal_Utilities.R
 589bc1fa5fc371405d7034c8f826b9c0 *R/LIGER_Plotting.R
 bb2d97d916e31187ef758c4a2fa855e9 *R/LIGER_Utilities.R
-3b6d924200f4e8f5b70520554181322f *R/Nebulosa_Plotting.R
+e3395834b28d05024302d0111b22c33a *R/Nebulosa_Plotting.R
 6573c7c22c369fa645cf790ff8e310a9 *R/Object_Conversion.R
 12ecd03f8ce48e700948cbe774916269 *R/Object_Utilities.R
 55ada4a67360e2dbc178cdd00baa221e *R/Plotting_Utilities.R
@@ -100,8 +100,8 @@ c88f81bcdd692288036416e0d91b3e8d *man/Meta_Present.Rd
 378640c65c625a65cbe2b5808e81ba59 *man/PalettePlot.Rd
 433e76855e89e3aab9e642f2005d379d *man/Percent_Expressing.Rd
 d8168bb6fb811d3b052a66e7d59b46d0 *man/Plot_Cells_per_Sample.Rd
-ec128806ae738c7c175f9d77637d9f8a *man/Plot_Density_Custom.Rd
-584bff5ab767078236b6acb885cc2682 *man/Plot_Density_Joint_Only.Rd
+d87022b1f1f929f572b0dd4c84044f15 *man/Plot_Density_Custom.Rd
+365dbdd7d10781fa9dce6668a4501c4d *man/Plot_Density_Joint_Only.Rd
 b9a167a7b0f18fc9bac81901a3021050 *man/Plot_Median_Genes.Rd
 c10c88ff8c72bf200442be0f76d24963 *man/Plot_Median_Mito.Rd
 1d29856b2d5b89288d19b942f252ec12 *man/Plot_Median_Other.Rd
