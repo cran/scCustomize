@@ -1,3 +1,20 @@
+# scCustomize 3.0.1 (2024-12-18)  
+## Added  
+- Added new parameters `output_width` and `output_height` to the `Iterate_*` family of plotting functions ([#217](https://github.com/samuel-marsh/scCustomize/issues/217)).  
+  
+  
+## Changed  
+    
+
+## Fixes  
+- Fixed bug in `Random_Cells_Downsample` that prevented setting identity using the `group.by` parameter.  
+- Fixed bug in `Cell_Highlight_Plot` that didn't pass the reduction parameter properly ([#216](https://github.com/samuel-marsh/scCustomize/issues/216)).  
+- Fixed bug when retrieving ensembl IDs for IEGs.  
+- Fixed bug that prevented using `return_plots` in iterative plotting functions([#217](https://github.com/samuel-marsh/scCustomize/issues/217)).  
+
+
+
+
 # scCustomize 3.0.0 (2024-12-05)  
 ## Added  
 **Major Updates to Functionality with rliger Package:**  
@@ -29,7 +46,7 @@
     - `Add_Hemo` (see above).  
     - `Rename_Clusters` now S3 generic for setting new active.ident (Seurat) or defaultCluster (Liger).  
     
-*New functions for Seurat and rliger v2.0.0+ only:*
+*New functions for Seurat and rliger v2.0.0+ only:*  
     - Added new function `Find_Factor_Cor` to return correlation matrix between factor gene loadings from liger or Seurat object.  
     - Added new function `Factor_Cor_Plot` to plot positive correlations from liger or Seurat object.  
     
